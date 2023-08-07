@@ -1,0 +1,76 @@
+{
+  "project_info": {
+    "project_number": "191308693153",
+    "project_id": "fristproject-58fe8",
+    "storage_bucket": "fristproject-58fe8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:191308693153:android:9ad2c18c63c39b530b3ae0",
+        "android_client_info": {
+          "package_name": "com.example.and102"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "191308693153-93hhjch46pc3cj7jk7o9ucoen4e4s30r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.and102",
+            "certificate_hash": "633a362fed0faa1956697bdd4645d4d4a8710b85"
+          }
+        },
+        {
+          "client_id": "191308693153-7pn3m797kpu68rfcm9r2egu62v64tb34.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAURP5PYN_mHEZb9eWzT4UqiyvkEEZ7Pds"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "191308693153-7pn3m797kpu68rfcm9r2egu62v64tb34.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:191308693153:android:0bf17cf3c9d94cec0b3ae0",
+        "android_client_info": {
+          "package_name": "com.example.android_networking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "191308693153-7pn3m797kpu68rfcm9r2egu62v64tb34.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAURP5PYN_mHEZb9eWzT4UqiyvkEEZ7Pds"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "191308693153-7pn3m797kpu68rfcm9r2egu62v64tb34.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
